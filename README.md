@@ -1,5 +1,7 @@
 # Hackintosh, MSI MAG B760M Mortar WiFi DDR4, Intel Core i7 14700K, AMD Radeon RX 6600 XT
 
+![Overview](https://github.com/user-attachments/assets/0a81d391-5edc-4ae4-a369-d955f3d9fb56)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.5)
